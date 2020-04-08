@@ -1,0 +1,16 @@
+<html>
+<center>
+ <body>
+   <?php
+   //session_start();
+   ?>
+   <?php 
+   include('delete.php');
+   include('index.php');
+   include('insert.php');
+   include('load.php');
+   include('update.php');
+   ?>
+ </body>
+</center>
+</html>
