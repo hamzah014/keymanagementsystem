@@ -12,7 +12,7 @@
 
 ## Instruction
 
- 1. Clone the repo inside your xampp/htdocs/ folder
+ 1. Clone the repo inside your xampp/htdocs/ folder (if you're not sure how to clone the repo, you can refer instruction in document CloneRepo.pdf)
  2. Run the Xampp
  3. Import database named "table database.sql" in phpmyadmin database.
  4. Name the database "keymanagementsystem".
